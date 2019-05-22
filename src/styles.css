@@ -93,7 +93,7 @@ body {
 }
 
 input[type=checkbox], input[type=radio] {
-  border: 1px solid #016fce;
+  border: 1px solid #d99e06;
  /* padding: 0.5em;*/
  padding: 0.4em;
  max-width: 3mm;
@@ -102,7 +102,7 @@ input[type=checkbox], input[type=radio] {
   margin-top: 1mm;
 }
 input[type=checkbox]:checked ,input[type=radio]:checked{
-  background: #016fce;
+  background: #d99e06;
  /* background-size: 6px 8px;**/
 }
 

@@ -11,7 +11,7 @@ header .logo {
 }
 header .logo img {
   position: relative;
-  height: 1.8cm;
+  height: 2cm;
 }
 header .logoa{
   width: 7cm;
@@ -74,7 +74,7 @@ header .budget{
 }
  .table .tr.thead .td {
   padding: 5px 0;
-  background: #016fce;
+  background: #454749;
   color: white;
   font-weight: 600;
  /* font-size: 0.85em;*/
